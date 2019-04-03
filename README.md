@@ -1,4 +1,4 @@
-# address-validation
+# address-validation-tool-python
 Address Validation Tool using Google Maps API
 
 This package contains python scripts that allow performing address validation process (using the Google Maps Geocoding service). Address validation is a process of checking a mailing address against an authoritative database to see if the address is valid. In the proposed method, a single address that is sent for validation passes through a process called geocoding, after which the input components are compared against the geocoding result.
